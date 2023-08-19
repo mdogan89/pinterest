@@ -1,2 +1,2 @@
 # pinterest
-Pinterest website clone prjoect with django.py for Neos Yazilim
+Pinterest website clone project with django.py for Neos Yazilim
